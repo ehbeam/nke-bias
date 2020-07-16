@@ -1,0 +1,263 @@
+﻿HARVARD_OXFORD,TERMS,SOURCE,TYPE
+accumbens,accumbens,Harvard-Oxford,term
+accumbens,acb,NeuroNames,acronym
+accumbens,nucleus accumbens,NeuroNames,term
+accumbens,accumbens nucleus,NeuroNames,term
+accumbens,nucleus accumbens septi,NeuroNames,term
+accumbens,caudate head,OBART-TALc,term
+amygdala,amygdala,Harvard-Oxford,term
+amygdala,amg,NeuroNames,acronym
+amygdala,amygdaloid body,NeuroNames,term
+amygdala,amygdaloid nuclear complex,NeuroNames,term
+amygdala,amygdaloid nucleus,NeuroNames,term
+amygdala,archistriatum,NeuroNames,term
+amygdala,corpus amygdalae,NeuroNames,term
+amygdala,corpus amygdaloideum,NeuroNames,term
+amygdala,nucleus amygdalae,NeuroNames,term
+angular_gyrus,ang,NeuroNames,acronym
+angular_gyrus,prelunate gyrus,NeuroNames,term
+angular_gyrus,preoccipital gyrus,NeuroNames,term
+angular_gyrus,gyrus angularis,NeuroNames,term
+brainstem,brainstem,Harvard-Oxford,term
+brainstem,brain stem,NeuroNames,term
+brainstem,truncus cerebri,NeuroNames,term
+brainstem,midbrain,NeuroNames,term
+brainstem,pons,NeuroNames,term
+brainstem,mediulla,NeuroNames,term
+brainstem,red nucleus,OBART-TALc,term
+caudate,caudate,Harvard-Oxford,term
+caudate,caudate nucleus,NeuroNames,term
+caudate,cd,NeuroNames,acronym
+caudate,caudatus,NeuroNames,term
+caudate,nucleus caudatus,NeuroNames,term
+caudate,caudate body,OBART-TALc,term
+central_opercular_cortex,central opercular cortex,Harvard-Oxford,term
+central_opercular_cortex,opercular cortex,NeuroNames,term
+central_opercular_cortex,opcx,NeuroNames,term
+central_opercular_cortex,opercula,NeuroNames,term
+central_opercular_cortex,area 43,OBART-TALc,term
+central_opercular_cortex,ba 43,Grammatical,acronym
+cerebellum,cerebellum,Harvard-Oxford,term
+cerebellum,corpus cerebelli,NeuroNames,term
+cerebellum,parencephalon,NeuroNames,term
+cingulate_gyrus_anterior_division,cingulate gyrus anterior division,Harvard-Oxford,term
+cingulate_gyrus_anterior_division,anterior cingulate gyrus,NeuroNames,term
+cingulate_gyrus_anterior_division,acgg,NeuroNames,acronym
+cingulate_gyrus_anterior_division,anterior cingulate,NeuroNames,term
+cingulate_gyrus_anterior_division,gyrus cinguli anterior,NeuroNames,term
+cingulate_gyrus_anterior_division,area 33,OBART-TALc,term
+cingulate_gyrus_anterior_division,ba 33,Grammatical,acronym
+cingulate_gyrus_anterior_division,area 24,OBART-TALc,term
+cingulate_gyrus_anterior_division,ba 24,Grammatical,acronym
+cingulate_gyrus_posterior_division,cingulate gyrus posterior division,Harvard-Oxford,term
+cingulate_gyrus_posterior_division,posterior cingulate gyrus,NeuroNames,term
+cingulate_gyrus_posterior_division,pcgg,NeuroNames,acronym
+cingulate_gyrus_posterior_division,posterior cingulate,NeuroNames,term
+cingulate_gyrus_posterior_division,area 23,OBART-TALc,term
+cingulate_gyrus_posterior_division,ba 23,Grammatical,acronym
+cuneal_cortex,cuneal cortex,Harvard-Oxford,term
+cuneal_cortex,cuneus,NeuroNames,term
+cuneal_cortex,cun,NeuroNames,acronym
+cuneal_cortex,cuneus gyrus,NeuroNames,term
+cuneal_cortex,gyrus cuneus,NeuroNames,term
+frontal_medial_cortex,frontal medial cortex,Harvard-Oxford,term
+frontal_medial_cortex,medial frontal gyrus,NeuroNames,term
+frontal_medial_cortex,gyrus frontalis medialis,NeuroNames,term
+frontal_operculum_cortex,frontal operculum cortex,Harvard-Oxford,term
+frontal_operculum_cortex,frontal operculum,NeuroNames,term
+frontal_operculum_cortex,frontal opercular cortex,NeuroNames,term
+frontal_orbital_cortex,frontal orbital cortex,Harvard-Oxford,term
+frontal_orbital_cortex,orbital part of the inferior frontal gyrus,NeuroNames,term
+frontal_orbital_cortex,area 47,OBART-TALc,term
+frontal_orbital_cortex,ba 47,Grammatical,acronym
+frontal_pole,frontal pole,Harvard-Oxford,term
+frontal_pole,frp,NeuroNames,acronym
+frontal_pole,polus frontalis,NeuroNames,term
+frontal_pole,frontopolar area,NeuroNames,term
+frontal_pole,area 46,OBART-TALc,term
+frontal_pole,ba 46,Grammatical,acronym
+frontal_pole,area 10,OBART-TALc,term
+frontal_pole,ba 10,Grammatical,acronym
+heschls_gyrus,heschls gyrus,Harvard-Oxford,term
+heschls_gyrus,transverse temporal gyrus,NeuroNames,term
+heschls_gyrus,heschls gyri,NeuroNames,term
+heschls_gyrus,transverse temporal gyri,NeuroNames,term
+hippocampus,hippocampus,Harvard-Oxford,term
+hippocampus,hippocampal formation,NeuroNames,term
+hippocampus,CA fields,NeuroNames,term
+hippocampus,dentate gyrus,NeuroNames,term
+hippocampus,subiculum,NeuroNames,term
+hippocampus,area 27,OBART-TALc,term
+hippocampus,ba 27,Grammatical,acronym
+inferior_frontal_gyrus_pars_opercularis,inferior frontal gyrus pars opercularis,Harvard-Oxford,term
+inferior_frontal_gyrus_pars_opercularis,opercular part of the inferior frontal gyrus,NeuroNames,term
+inferior_frontal_gyrus_pars_opercularis,area 44,OBART-TALc,term
+inferior_frontal_gyrus_pars_opercularis,ba 44,Grammatical,term
+inferior_frontal_gyrus_pars_triangularis,inferior frontal gyrus pars triangularis,Harvard-Oxford,term
+inferior_frontal_gyrus_pars_triangularis,triangular part of the inferior frontal gyrus,NeuroNames,term
+inferior_frontal_gyrus_pars_triangularis,ifgtr,NeuroNames,acronym
+inferior_frontal_gyrus_pars_triangularis,area 45,OBART-TALc,term
+inferior_frontal_gyrus_pars_triangularis,ba 45,Grammatical,acronym
+inferior_temporal_gyrus_anterior_division,inferior temporal gyrus anterior division,Harvard-Oxford,term
+inferior_temporal_gyrus_anterior_division,anterior inferior temporal gyrus,Grammatical,term
+inferior_temporal_gyrus_posterior_division,inferior temporal gyrus posterior division,Harvard-Oxford,term
+inferior_temporal_gyrus_posterior_division,posterior inferior temporal gyrus,Grammatical,term
+inferior_temporal_gyrus_temporooccipital_part,inferior temporal gyrus temporooccipital part,Harvard-Oxford,term
+inferior_temporal_gyrus_temporooccipital_part,temporooccipital inferior temporal gyrus,Grammatical,term
+insular_cortex,insular cortex,Harvard-Oxford,term
+insular_cortex,insula,NeuroNames,term
+insular_cortex,ins,NeuroNames,acronym
+insular_cortex,central lobe,NeuroNames,term
+insular_cortex,insular gyrus,NeuroNames,term
+insular_cortex,insular lobe,NeuroNames,term
+insular_cortex,insular region,NeuroNames,term
+insular_cortex,insulary cortex,NeuroNames,term
+insular_cortex,island of reil,NeuroNames,term
+insular_cortex,morphological insula,NeuroNames,term
+insular_cortex,lobus insularis,NeuroNames,term
+intracalcarine_cortex,intracalcarine cortex,Harvard-Oxford,term
+intracalcarine_cortex,caclarine sulcus,NeuroNames,term
+intracalcarine_cortex,ccs,NeuroNames,acronym
+intracalcarine_cortex,calcarine fissure,NeuroNames,term
+intracalcarine_cortex,fissura calcarina,NeuroNames,term
+intracalcarine_cortex,sulcus calcarinus,NeuroNames,term
+lateral_occipital_cortex_inferior_division,lateral occipital cortex inferior division,Harvard-Oxford,term
+lateral_occipital_cortex_inferior_division,inferior lateral occipital cortex,Grammatical,term
+lateral_occipital_cortex_inferior_division,inferior middle occipital gyrus,NeuroNames,term
+lateral_occipital_cortex_superior_division,lateral occipital cortex superior division,Harvard-Oxford,term
+lateral_occipital_cortex_superior_division,superior lateral occipital cortex,Grammatical,term
+lateral_occipital_cortex_superior_division,superior middle occipital gyrus,NeuroNames,term
+lateral_occipital_cortex_superior_division,area 39,OBART-TALc,term
+lateral_occipital_cortex_superior_division,ba 39,Grammatical,acronym
+lingual_gyrus,lingual gyrus,Harvard-Oxford,term
+lingual_gyrus,lig,NeuroNames,acronym
+lingual_gyrus,medial occipitotemporal gyrus,NeuroNames,term
+lingual_gyrus,gyrus lingualis,NeuroNames,term
+middle_frontal_gyrus,middle frontal gyrus,Harvard-Oxford,term
+middle_frontal_gyrus,mfg,NeuroNames,acronym
+middle_frontal_gyrus,gyrus f2,NeuroNames,term
+middle_frontal_gyrus,gyrus frontalis medius,NeuroNames,term
+middle_temporal_gyrus_anterior_division,middle temporal gyrus anterior division,Harvard-Oxford,term
+middle_temporal_gyrus_anterior_division,anterior middle temporal gyrus,Grammatical,term
+middle_temporal_gyrus_anterior_division,anterior mtg,NeuroNames,acronym
+middle_temporal_gyrus_posterior_division,middle temporal gyrus posterior division,Harvard-Oxford,term
+middle_temporal_gyrus_posterior_division,posterior middle temporal gyrus,Grammatical,term
+middle_temporal_gyrus_posterior_division,posterior mtg,NeuroNames,acronym
+middle_temporal_gyrus_temporooccipital_part,middle temporal gyrus temporooccipital part,Harvard-Oxford,term
+middle_temporal_gyrus_temporooccipital_part,temporooccipital middle temporal gyrus,Grammatical,term
+middle_temporal_gyrus_temporooccipital_part,temporooccipital mtg,NeuroNames,acronym
+occipital_fusiform_gyrus,occipital fusiform gyrus,Harvard-Oxford,term
+occipital_fusiform_gyrus,occipital fug,NeuroNames,acronym
+occipital_pole,occipital pole,Harvard-Oxford,term
+occipital_pole,ocp,NeuroNames,acronym
+occipital_pole,area 17,OBART-TALc,term
+occipital_pole,ba 17,Grammatical,acronym
+pallidum,pallidum,Harvard-Oxford,term
+pallidum,globus pallidus,NeuroNames,term
+pallidum,gp,NeuroNames,acronym
+pallidum,paleostriatum,NeuroNames,term
+pallidum,nucleus pallidus,NeuroNames,term
+pallidum,lateral globus pallidus,OBART-TALc,term
+paracingulate_gyrus,paracingulate gyrus,Harvard-Oxford,term
+paracingulate_gyrus,external cingulate gyrus,NeuroNames,term
+parahippocampal_gyrus_anterior_division,parahippocampal gyrus anterior division,Harvard-Oxford,term
+parahippocampal_gyrus_anterior_division,anterior parahippocampal gyrus,Grammatical,term
+parahippocampal_gyrus_anterior_division,aphg,NeuroNames,acronym
+parahippocampal_gyrus_anterior_division,area 28,OBART-TALc,term
+parahippocampal_gyrus_anterior_division,ba 28,Grammatical,acronym
+parahippocampal_gyrus_posterior_division,parahippocampal gyrus posterior division,Harvard-Oxford,term
+parahippocampal_gyrus_posterior_division,posterior parahippocampal gyrus,Grammatical,term
+parahippocampal_gyrus_posterior_division,pphg,NeuroNames,acronym
+parahippocampal_gyrus_posterior_division,area 35,OBART-TALc,term
+parahippocampal_gyrus_posterior_division,ba 35,Grammatical,acronym
+parietal_operculum_cortex,parietal operculum cortex,Harvard-Oxford,term
+parietal_operculum_cortex,parietal operculum,NeuroNames,term
+parietal_operculum_cortex,pao,NeuroNames,acronym
+planum_polare,planum polare,Harvard-Oxford,term
+planum_temporale,planum temporale,Harvard-Oxford,term
+planum_temporale,temporal plane,NeuroNames,term
+postcentral_gyrus,postcentral gyrus,Harvard-Oxford,term
+postcentral_gyrus,pog,NeuroNames,acronym
+postcentral_gyrus,post central gyrus,NeuroNames,term
+postcentral_gyrus,posterior central gyrus,NeuroNames,term
+postcentral_gyrus,gyrus postcentralis,NeuroNames,term
+postcentral_gyrus,area 5,OBART-TALc,term
+postcentral_gyrus,ba 5,Grammatical,acronym
+postcentral_gyrus,area 2,OBART-TALc,term
+postcentral_gyrus,ba 2,Grammatical,acronym
+postcentral_gyrus,area 1,OBART-TALc,term
+postcentral_gyrus,ba 1,Grammatical,acronym
+precentral_gyrus,precentral gyrus,Harvard-Oxford,term
+precentral_gyrus,prg,NeuroNames,acronym
+precentral_gyrus,anterior central gyrus,NeuroNames,term
+precentral_gyrus,precentral convolution,NeuroNames,term
+precentral_gyrus,prerolandic gyrus,NeuroNames,term
+precentral_gyrus,gyrus centralis anterior,NeuroNames,term
+precentral_gyrus,gyrus precentralis,NeuroNames,term
+precentral_gyrus,area 4,OBART-TALc,term
+precentral_gyrus,ba 4,Grammatical,acronym
+precentral_gyrus,area 3,OBART-TALc,term
+precentral_gyrus,ba 3,Grammatical,acronym
+precuneous_cortex,precuneous cortex,Harvard-Oxford,term
+precuneous_cortex,precuneus,NeuroNames,term
+precuneous_cortex,pcu,NeuroNames,acronym
+precuneous_cortex,praecuneus,NeuroNames,term
+putamen,putamen,Harvard-Oxford,term
+putamen,pu,NeuroNames,acronym
+putamen,nucleus putamen,NeuroNames,term
+subcallosal_cortex,subcallosal cortex,Harvard-Oxford,term
+subcallosal_cortex,subcallosal area,NeuroNames,term
+subcallosal_cortex,area 25,OBART-TALc,term
+subcallosal_cortex,ba 25,Grammatical,acronym
+superior_frontal_gyrus,superior frontal gyrus,Harvard-Oxford,term
+superior_frontal_gyrus,sfg,NeuroNames,acronym
+superior_frontal_gyrus,marginal gyrus,NeuroNames,term
+superior_frontal_gyrus,superior frontal convolution,NeuroNames,term
+superior_frontal_gyrus,gyrus frontalis superior,NeuroNames,term
+superior_parietal_lobule,superior parietal lobule,Harvard-Oxford,term
+superior_parietal_lobule,spl,NeuroNames,acronym
+superior_parietal_lobule,superior parietal gyrus,NeuroNames,term
+superior_parietal_lobule,lobulus parietalis superior,NeuroNames,term
+superior_temporal_gyrus_anterior_division,superior temporal gyrus anterior division,Harvard-Oxford,term
+superior_temporal_gyrus_anterior_division,anterior superior temporal gyrus,Grammatical,term
+superior_temporal_gyrus_anterior_division,anterior stg,NeuroNames,acronym
+superior_temporal_gyrus_posterior_division,superior temporal gyrus posterior division,Harvard-Oxford,term
+superior_temporal_gyrus_posterior_division,posterior superior temporal gyrus,Grammatical,term
+superior_temporal_gyrus_posterior_division,posterior stg,NeuroNames,acronym
+supplementary_motor_cortex,supplementary motor cortex,Harvard-Oxford,term
+supplementary_motor_cortex,juxtapositional lobule cortex,Harvard-Oxford,term
+supplementary_motor_cortex,sma proper,NeuroNames,term
+supplementary_motor_cortex,area f3,NeuroNames,term
+supplementary_motor_cortex,supplementary motor area,NeuroNames,term
+supracalcarine_cortex,supracalcarine cortex,Harvard-Oxford,term
+supramarginal_gyrus_anterior_division,supramarginal gyrus anterior division,Harvard-Oxford,term
+supramarginal_gyrus_anterior_division,anterior supramarginal gyrus,Grammatical,term
+supramarginal_gyrus_anterior_division,anterior smg,NeuroNames,acronym
+supramarginal_gyrus_posterior_division,supramarginal gyrus posterior division,Harvard-Oxford,term
+supramarginal_gyrus_posterior_division,posterior supramarginal gyrus,Grammatical,term
+supramarginal_gyrus_posterior_division,posterior smg,NeuroNames,acronym
+temporal_fusiform_cortex_anterior_division,temporal fusiform cortex anterior division,Harvard-Oxford,term
+temporal_fusiform_cortex_anterior_division,anterior temporal fusiform cortex,Grammatical,term
+temporal_fusiform_cortex_posterior_division,temporal fusiform cortex posterior division,Harvard-Oxford,term
+temporal_fusiform_cortex_posterior_division,posterior temporal fusiform cortex,Grammatical,term
+temporal_occipital_fusiform_cortex,temporal occipital fusiform cortex,Harvard-Oxford,term
+temporal_pole,temporal pole,Harvard-Oxford,term
+temporal_pole,tmp,NeuroNames,acronym
+temporal_pole,area 38,OBART-TALc,term
+temporal_pole,ba 38,OBART-TALc,acronym
+thalamus,thalamus,Harvard-Oxford,term
+thalamus,th,NeuroNames,acronym
+thalamus,thalamencephalon,NeuroNames,term
+thalamus,thalamus dorsalis,NeuroNames,term
+thalamus,ventral posterior medial nucleus,OBART-TALc,term
+thalamus,ventral posterior lateral nucleus,OBART-TALc,term
+thalamus,ventral lateral nucleus,OBART-TALc,term
+thalamus,ventral anterior nucleus,OBART-TALc,term
+thalamus,pulvinar,OBART-TALc,term
+thalamus,midline nucleus,OBART-TALc,term
+thalamus,medial geniculum body,OBART-TALc,term
+thalamus,medial dorsal nucleus,OBART-TALc,term
+thalamus,mammillary body,OBART-TALc,term
+thalamus,lateral posterior nucleus,OBART-TALc,term
+thalamus,lateral dorsal nucleus,OBART-TALc,term
+thalamus,anterior nucleus,OBART-TALc,term
